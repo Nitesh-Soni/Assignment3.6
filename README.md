@@ -33,6 +33,7 @@ public class acad {
 		c=a*b+d;
 		return c;
 	}
+
 }
 /*we can overload the method with the same return type till when we have a different number
 of variables in the the argument
